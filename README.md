@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elkrak3n
+- 👋 Hi, I’m Clayton
 - 👀 I’m interested in Graphics, and anything low-level I do not understand (yet)
 - 🌱 I’m currently learning C/C++, CG, and Win32 stuff (HH)
 - 💞️ I’m looking to collaborate on anything graphics, games, or written in C/C++
