@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Clayton
-- 👀 I’m interested in Graphics, and anything low-level I do not understand (yet)
-- 🌱 I’m currently learning C/C++, CG, and Win32 stuff (HH)
-- 💞️ I’m looking to collaborate on anything graphics, games, or written in C/C++
+Hello, my name is Clayton I am just a curious person looking to build
+quality software for others people, or help others on that same quest.
+I am currently rather new to this sort of thing but I am diving into Handmade Hero
+and personally feel drawn to more low level and game technology work.
+I have aspirations of working on video game technology in industry
+however I am far too underskilled to do so, which I am hoping to fix in time.
+
+
 - 📫 How to reach me: krakn333@gmail.com
 
 <!---
