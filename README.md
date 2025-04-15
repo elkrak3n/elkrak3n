@@ -1,5 +1,5 @@
 Hello, my name is Clayton I am just a curious person looking to build
-quality software for others people, or help others on that same quest.
+quality software for other people, or help others on that same quest.
 I am currently rather new to this sort of thing but I am diving into Handmade Hero
 and personally feel drawn to more low level and game technology work.
 I have aspirations of working on video game technology in industry
