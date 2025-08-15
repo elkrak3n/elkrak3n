@@ -1,9 +1,10 @@
-Hello, my name is Clayton I am just a curious person looking to build
-quality software for other people, or help others on that same quest.
-I am currently rather new to this sort of thing but I am diving into Handmade Hero
-and personally feel drawn to more low level and game technology work.
-I have aspirations of working on video game technology in industry
-however I am far too underskilled to do so, which I am hoping to fix in time.
+Hello, my name is Clayton and I am just another
+curious person on the internet trying to build
+things and give back to the WWW in some way.
+My current interest lies with AI, and I am
+looking to do some independent work related
+to Reinforcement Learning, although currently
+I am very early in this endeavor.
 
 
 - 📫 How to reach me: krakn333@gmail.com
